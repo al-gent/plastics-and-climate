@@ -1,0 +1,12 @@
+# Contacts & sensitive data
+*.xlsx
+*.csv
+process_contacts.py
+
+# Python
+__pycache__/
+*.pyc
+
+# System
+.DS_Store
+.claude/
